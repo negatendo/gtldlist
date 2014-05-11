@@ -43,6 +43,7 @@ List of single serving gTLD sites
 
 ###today###
 * [archive.today](http://archive.today)
+* [encrypt.today](https://encrypt.today)
 
 ###zone###
 * [cutie.zone](http://cutie.zone)
