@@ -34,6 +34,9 @@ List of single serving gTLD sites
 ###plumbing###
 * [watergate.plumbing](http://watergate.plumbing)
 
+###sexy###
+* [unix.sexy](http://unix.sexy)
+
 ###today###
 * [archive.today](http://archive.today)
 
