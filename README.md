@@ -15,6 +15,9 @@ List of single serving gTLD sites
 ###coffee###
 * [bad.coffee](http://bad.coffee)
 
+###domains###
+* [dumb.domains](http://dumb.domains)
+
 ###farm###
 * [penis.farm](http://penis.farm)
 
