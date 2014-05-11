@@ -35,6 +35,7 @@ List of single serving gTLD sites
 * [watergate.plumbing](http://watergate.plumbing)
 
 ###sexy###
+* [emacs.sexy](http://vim.sexy)
 * [hitler.sexy](http://hitler.sexy)
 * [unix.sexy](http://unix.sexy)
 * [vim.sexy](http://vim.sexy)
