@@ -34,6 +34,9 @@ List of single serving gTLD sites
 ###plumbing###
 * [watergate.plumbing](http://watergate.plumbing)
 
+###today###
+* [archive.today](http://archive.today)
+
 ###zone###
 * [cutie.zone](http://cutie.zone)
 * [highwaytothedanger.zone](http://highwaytothedanger.zone)
