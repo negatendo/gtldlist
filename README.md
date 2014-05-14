@@ -38,10 +38,15 @@ List of single serving gTLD sites
 * [emacs.sexy](http://vim.sexy)
 * [farts.sexy](http://farts.sexy)
 * [hitler.sexy](http://hitler.sexy)
-* [isfucking.sexy[(http://welcome.isfucking.sexy)
+* [isfucking.sexy](http://welcome.isfucking.sexy)
+* [is.programmer.sexy](http://is.programmer.sexy/)
+* [isthatfedora.sexy](isthatfedora.sexy)
+* [rit.sexy](http://rit.sexy)
 * [rms.sexy](https://rms.sexy)
 * [unix.sexy](http://unix.sexy)
 * [vim.sexy](http://vim.sexy)
+* [vinylis.sexy](http://www.vinylis.sexy)
+* [austem.sexy](http://austen.sexy)
 
 
 ###today###
