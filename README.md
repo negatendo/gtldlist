@@ -36,7 +36,9 @@ List of single serving gTLD sites
 
 ###sexy###
 * [emacs.sexy](http://vim.sexy)
+* [farts.sexy](http://farts.sexy)
 * [hitler.sexy](http://hitler.sexy)
+* [isfucking.sexy[(http://welcome.isfucking.sexy)
 * [rms.sexy](https://rms.sexy)
 * [unix.sexy](http://unix.sexy)
 * [vim.sexy](http://vim.sexy)
