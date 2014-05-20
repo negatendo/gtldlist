@@ -53,6 +53,9 @@ List of single serving gTLD sites
 * [archive.today](http://archive.today)
 * [encrypt.today](https://encrypt.today)
 
+###voyage###
+* [sunset.voyage](http://sunset.voyage)
+
 ###zone###
 * [cutie.zone](http://cutie.zone)
 * [highwaytothedanger.zone](http://highwaytothedanger.zone)
