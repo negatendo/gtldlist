@@ -54,13 +54,16 @@ List of single serving gTLD sites
 * [vinylis.sexy](http://www.vinylis.sexy)
 * [austem.sexy](http://austen.sexy)
 
+###technology###
+* [cat.technology](http://cat.technology) Qualifies?
+* [lebron.technology](http://lebron.technology/)
 
 ###today###
 * [archive.today](http://archive.today)
 * [encrypt.today](https://encrypt.today)
 
 ###voyage###
-* [sunset.voyage](http://sunset.voyage)
+* [sunset.voyage](http://sunset.voyage) Qualifies?
 
 ###zone###
 * [cutie.zone](http://cutie.zone)
