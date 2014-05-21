@@ -16,7 +16,7 @@ List of single serving gTLD sites
 * [bad.coffee](http://bad.coffee)
 
 ###club###
-* (drunkinthe.club)[http://drunkinthe.club]
+* [drunkinthe.club](http://drunkinthe.club)
 
 ###domains###
 * [dumb.domains](http://dumb.domains)
