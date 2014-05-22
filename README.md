@@ -14,6 +14,10 @@ List of single serving gTLD sites
 
 ###coffee###
 * [bad.coffee](http://bad.coffee)
+* [butt.coffee](http://butt.coffee)
+
+###construction###
+* [penis.construction](http://penis.construction)
 
 ###club###
 * [2048.club](http://2048.club/) >:(
@@ -30,6 +34,7 @@ List of single serving gTLD sites
 
 ###holdings###
 * [butt.holdings](http://butt.holdings)
+* [maxtemkin.holdings](http://maxtemkin.holdings) Qualifies?
 
 ###kitchen###
 * [gobacktothe.kitchen](http://gobacktothe.kitchen/) >:(
