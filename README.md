@@ -52,7 +52,7 @@ List of single serving gTLD sites
 * [hitler.sexy](http://hitler.sexy)
 * [isfucking.sexy](http://welcome.isfucking.sexy)
 * [is.programmer.sexy](http://is.programmer.sexy/)
-* [isthatfedora.sexy](isthatfedora.sexy)
+* [isthatfedora.sexy](http://isthatfedora.sexy)
 * [rit.sexy](http://rit.sexy)
 * [rms.sexy](https://rms.sexy)
 * [unix.sexy](http://unix.sexy)
