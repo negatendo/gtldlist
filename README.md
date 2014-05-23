@@ -1,7 +1,7 @@
 #gtldlist#
 ========
 
-List of single serving gTLD sites
+The following is a list of gTLD domain goofery, typically so-called "single serving sites" and/or funny redirects. This list will not include "actual" sites or multi-page tumblrs or url shorteners or anything that doesn't fit within this, admittedly, vague editorial choice. As of Friday 23rd sites that were borderline to this have been moved to README_TOO.md
 
 ###academy###
 * [fart.academy](http://fart.academy)
@@ -35,7 +35,6 @@ List of single serving gTLD sites
 
 ###holdings###
 * [butt.holdings](http://butt.holdings)
-* [maxtemkin.holdings](http://maxtemkin.holdings) Qualifies?
 
 ###kitchen###
 * [gobacktothe.kitchen](http://gobacktothe.kitchen/) >:(
@@ -51,7 +50,6 @@ List of single serving gTLD sites
 * [emacs.sexy](http://vim.sexy)
 * [farts.sexy](http://farts.sexy)
 * [hitler.sexy](http://hitler.sexy)
-* [isfucking.sexy](http://welcome.isfucking.sexy)
 * [is.programmer.sexy](http://is.programmer.sexy/)
 * [isthatfedora.sexy](http://isthatfedora.sexy)
 * [rit.sexy](http://rit.sexy)
@@ -62,15 +60,11 @@ List of single serving gTLD sites
 * [austem.sexy](http://austen.sexy)
 
 ###technology###
-* [cat.technology](http://cat.technology) Qualifies?
 * [lebron.technology](http://lebron.technology/)
 
 ###today###
 * [archive.today](http://archive.today)
 * [encrypt.today](https://encrypt.today)
-
-###voyage###
-* [sunset.voyage](http://sunset.voyage) Qualifies?
 
 ###zone###
 * [cutie.zone](http://cutie.zone)
