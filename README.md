@@ -18,7 +18,7 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 * [butt.coffee](http://butt.coffee)
 
 ###computer###
-* [fart.computer](fart.computer)
+* [fart.computer](http://fart.computer)
 
 ###construction###
 * [penis.construction](http://penis.construction)
@@ -34,7 +34,7 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 * [penis.farm](http://penis.farm)
 
 ###graphics###
-* [butt.graphics](butt.graphics)
+* [butt.graphics](http://butt.graphics)
 * [cga.graphics](http://cga.graphics)
 
 ###holdings###
