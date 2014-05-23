@@ -1,7 +1,8 @@
 #gtldlist#
 
+
 The following is a list of gTLD domain goofery, typically so-called "single serving sites" and/or funny redirects. This list will not include "actual" sites or multi-page tumblrs or url shorteners or anything that doesn't fit within this, admittedly, vague editorial choice. As of Friday 23rd sites that were borderline but kinda amusing have been moved to README_TOO.md
-========
+
 
 ###academy###
 * [fart.academy](http://fart.academy)
