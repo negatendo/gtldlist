@@ -44,6 +44,9 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 * [gobacktothe.kitchen](http://gobacktothe.kitchen/) >:(
 * [woman.kitchen](http://woman.kitchen/) >:(
 
+###land###
+* [bullshit.land](http://bullshit.land)
+
 ###pics###
 * [iss.pics](http://www.iss.pics/)
 
@@ -69,6 +72,7 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 ###today###
 * [archive.today](http://archive.today)
 * [encrypt.today](https://encrypt.today)
+* [fart.today](http://fart.today)
 
 ###zone###
 * [cutie.zone](http://cutie.zone)
