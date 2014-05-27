@@ -76,6 +76,7 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 
 ###zone###
 * [cutie.zone](http://cutie.zone)
+* [emoji.zone](http://emoji.zone)
 * [highwaytothedanger.zone](http://highwaytothedanger.zone)
 * [kanye.zone](http://kanye.zone)
 * [puppy.zone](http://puppy.zone)
