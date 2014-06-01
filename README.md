@@ -68,6 +68,7 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 
 ###technology###
 * [lebron.technology](http://lebron.technology/)
+* [ritual.technology](http://ritual.technology/)
 
 ###today###
 * [archive.today](http://archive.today)
