@@ -3,7 +3,8 @@
 
 List of liked gTLDs that don't fit the editorial policy of README.md
 
-
+###cool###
+* [that-towel-is-very.cool](http://that-towel-is-very.cool)
 ###holdings###
 * [maxtemkin.holdings](http://maxtemkin.holdings) 
 
