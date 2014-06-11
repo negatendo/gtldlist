@@ -31,6 +31,7 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 * [dumb.domains](http://dumb.domains)
 
 ###farm###
+* [clownpenis.farm](http://clownpenis.farm)
 * [penis.farm](http://penis.farm)
 
 ###graphics###
