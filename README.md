@@ -77,6 +77,8 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 * [fart.today](http://fart.today)
 
 ###zone###
+
+* [boogie.zone](http://boogie.zone)
 * [cutie.zone](http://cutie.zone)
 * [emoji.zone](http://emoji.zone)
 * [highwaytothedanger.zone](http://highwaytothedanger.zone)
