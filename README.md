@@ -67,6 +67,9 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 * [vinylis.sexy](http://www.vinylis.sexy)
 * [austem.sexy](http://austen.sexy)
 
+###systems###
+* [butt.systems](http://butt.systems)
+
 ###technology###
 * [lebron.technology](http://lebron.technology/)
 * [ritual.technology](http://ritual.technology/)
