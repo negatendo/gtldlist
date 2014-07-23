@@ -54,7 +54,7 @@ The following is a list of gTLD domain goofery, typically so-called "single serv
 * [watergate.plumbing](http://watergate.plumbing)
 
 ###sexy###
-* [emacs.sexy](http://vim.sexy)
+* [emacs.sexy](http://emacs.sexy)
 * [emoji.sexy](http://emoji.sexy)
 * [farts.sexy](http://farts.sexy)
 * [hitler.sexy](http://hitler.sexy)
